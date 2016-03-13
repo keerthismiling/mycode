@@ -40,6 +40,10 @@ public class Calendar_Yatra {
 		}*/
 		System.out.println("test");
 	}
+		private void tightsleep(int i) {
+		// TODO Auto-generated method stub
+		
+	}
 		@DataProvider
 		public Object[][] getcontent()
 		{
